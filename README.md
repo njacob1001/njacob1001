@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=njacob1001&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=njacob1001&count_private=true&show_icons=true&theme=react)]
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=njacob1001&theme=react&count_private=true&hide=html,kotlin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=njacob1001&theme=react&count_private=true&hide=html,kotlin&layout=compact)]
 
 
 <!--
