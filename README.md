@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=njacob1001&theme=blue-green&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=njacob1001&theme=blue-green&count_private=true&hide=html,kotlin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
