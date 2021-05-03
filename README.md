@@ -3,7 +3,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=njacob1001&count_private=true&show_icons=true&theme=react)](https://github.com/njacob1001)
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=njacob1001&theme=react&count_private=true&hide=html,kotlin&layout=compact)](https://github.com/njacob1001)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=njacob1001&theme=react&count_private=true&hide=html&layout=compact&langs_count=6)](https://github.com/njacob1001)
 
 
 <!--
