@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=njacob1001&theme=react&count_private=true&hide=html&layout=compact&langs_count=6)](https://github.com/njacob1001)
-
-
 <!--
 **njacob1001/njacob1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
