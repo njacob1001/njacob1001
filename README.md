@@ -26,7 +26,6 @@ Senior front end developer equipped with 7 years of experience. I’ve worked wi
 
 - 🔭 I’m currently working on Algoritmo Taller Digital
 - 🌱 I’m currently learning about Deep Learning
-- 👯 I’m looking to collaborate on 
 - 💬 Ask me about front end and sofwtare architecture
 - 😄 Pronouns: He 😆
 - ⚡ Fun fact: I love Rick and Morty
