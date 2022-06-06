@@ -1,4 +1,4 @@
-![Jacob gonzalez banner](https://i.imgur.com/13XgL11.png)
+<!-- ![Jacob gonzalez banner](https://i.imgur.com/13XgL11.png) -->
 
 
 <p align="center">
