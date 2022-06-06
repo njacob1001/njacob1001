@@ -26,7 +26,7 @@ Senior front end developer equipped with 7 years of experience. I’ve worked wi
 
 - 🔭 I’m currently working on Softserve
 - 🌱 I’m currently learning about Deep Learning
-- 💬 Ask me about front end and sofwtare architecture
+- 💬 Ask me about front end and software development
 - 😄 Pronouns: He 😆
 - ⚡ Fun fact: I love Rick and Morty
 
