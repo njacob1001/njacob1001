@@ -24,7 +24,7 @@
 
 Senior front end developer equipped with 7 years of experience. I’ve worked with different tools around ReactJS ecosystem. Skilled in designing, developing and testing multiple react based applications, always thinking about performance, architecture and good practices in all development process.
 
-- 🔭 I’m currently working on Algoritmo Taller Digital
+- 🔭 I’m currently working on Softserve
 - 🌱 I’m currently learning about Deep Learning
 - 💬 Ask me about front end and sofwtare architecture
 - 😄 Pronouns: He 😆
