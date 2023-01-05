@@ -28,6 +28,7 @@ I'm a software developer based in Buenos Aires AR, specializing in building exce
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
+
 - 📱 &nbsp;Mobile:&nbsp;
   ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
   ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-0A1A2F?style=flat&logo=Android&logoColor=3bd17d)
@@ -51,6 +52,13 @@ I'm a software developer based in Buenos Aires AR, specializing in building exce
 - 📖 &nbsp;Learning:&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Rust-0A1A2F?style=flat&logo=rust)
   ![Visual Studio Code](https://img.shields.io/badge/-Deep%20learning-0A1A2F?style=flat&logo=tensorflow)
+- 🧑‍💼 &nbsp;Methodologies:&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Clean%20architecture-0A1A2F?style=flat)
+  ![Visual Studio Code](https://img.shields.io/badge/-Domain%20Driven%20Design%20(DDD)-0A1A2F?style=flat)
+  ![Visual Studio Code](https://img.shields.io/badge/-Test%20Driven%20Development%20(TDD)-0A1A2F?style=flat)
+  ![Visual Studio Code](https://img.shields.io/badge/-SCRUM-0A1A2F?style=flat)
+  ![Visual Studio Code](https://img.shields.io/badge/-Hexagonal%20architecture-0A1A2F?style=flat)
+  
 
 
 <br/>
