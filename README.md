@@ -22,29 +22,40 @@
 
 ## Hi there 👋
 
-Senior front end developer equipped with 7 years of experience. I’ve worked with different tools around ReactJS ecosystem. Skilled in designing, developing and testing multiple react based applications, always thinking about performance, architecture and good practices in all development process.
+software Engineer equipped with 8 years of experience. I’ve worked with different tools around ReactJS ecosystem. Skilled in designing, developing and testing multiple react based applications, always thinking about performance, architecture and good practices in all development process.
 
-- 🔭 I’m currently working on Softserve
-- 🌱 I’m currently learning about Deep Learning
-- 💬 Ask me about front end and software development
-- 😄 Pronouns: He 😆
-- ⚡ Fun fact: I love Rick and Morty
+I'm a software developer based in Buenos Aires AR, specializing in building exceptional websites and mobile applications, and everything in between.
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 📱 &nbsp;Mobile:&nbsp;
+  ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
+  ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-0A1A2F?style=flat&logo=Android&logoColor=3bd17d)
+  
+- 🗄 &nbsp;Backend:&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
+  ![Go](https://img.shields.io/badge/-Go-0A1A2F?style=flat&logo=go)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-0A1A2F?style=flat&logo=kotlin)
+  
+- 🌐 &nbsp;Frontend:&nbsp;
+  ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
+- 🛢 &nbsp;Database:&nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
+  ![Postgresql](https://img.shields.io/badge/-Postgresql-0A1A2F?style=flat&logo=postgresql)
+- ⚙️ &nbsp;VCS: &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)
+- 🔧 &nbsp;IDE's:&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Vim](https://img.shields.io/badge/-Vim-0A1A2F?style=flat&logo=vim&logoColor=007ACC)
+- 🖥 &nbsp;Design:&nbsp;
+  ![AdobeXD](https://img.shields.io/badge/-AdobeXD-0A1A2F?style=flat&logo=adobe-xd)
+  ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
+
+<br/>
 
 
 
-
-
-<!--
-**njacob1001/njacob1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
