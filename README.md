@@ -54,8 +54,8 @@ I'm a software developer based in Buenos Aires AR, specializing in building exce
   ![Visual Studio Code](https://img.shields.io/badge/-Deep%20learning-0A1A2F?style=flat&logo=tensorflow)
 - 🧑‍💼 &nbsp;Methodologies:&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Clean%20architecture-0A1A2F?style=flat)
-  ![Visual Studio Code](https://img.shields.io/badge/-Domain%20Driven%20Design%20(DDD)-0A1A2F?style=flat)
-  ![Visual Studio Code](https://img.shields.io/badge/-Test%20Driven%20Development%20(TDD)-0A1A2F?style=flat)
+  ![Visual Studio Code](https://img.shields.io/badge/-DDD-0A1A2F?style=flat)
+  ![Visual Studio Code](https://img.shields.io/badge/-TDD-0A1A2F?style=flat)
   ![Visual Studio Code](https://img.shields.io/badge/-SCRUM-0A1A2F?style=flat)
   ![Visual Studio Code](https://img.shields.io/badge/-Hexagonal%20architecture-0A1A2F?style=flat)
   
