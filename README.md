@@ -48,7 +48,7 @@ I'm a software developer based in Buenos Aires AR, specializing in building exce
   ![AWS](https://img.shields.io/badge/-AWS-0A1A2F?style=flat&logo=amazon-aws)
   ![Github Actions](https://img.shields.io/badge/-Kubernetes-0A1A2F?style=flat&logo=kubernetes)
   ![Markdown](https://img.shields.io/badge/-CI/CD-0A1A2F?style=flat&logo=github)
-- 🔧 &nbsp;Learning:&nbsp;
+- 📖 &nbsp;Learning:&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Rust-0A1A2F?style=flat&logo=rust)
   ![Visual Studio Code](https://img.shields.io/badge/-Deep%20learning-0A1A2F?style=flat&logo=tensorflow)
 
